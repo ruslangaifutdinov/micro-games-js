@@ -1,4 +1,4 @@
-# learn-advanced-js
+# Learn-advanced-js
 
 It's my advanced learning education applications:
 ### 1. Guess a secret number. 
