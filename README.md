@@ -11,3 +11,8 @@ The project, were I learned how manipulated with Object DOM.
 The project, were I learned how manipulated with Object DOM, and CSS style
 
 [link](http://test.ruslangaifutdinov.ru/modal/index.html)
+
+
+### 3. Pig game.
+The project, were I learned how manipulated with Object DOM, and CSS style and so on....
+[link](http://test.ruslangaifutdinov.ru/pig_game/index.html)
