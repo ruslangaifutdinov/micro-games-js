@@ -15,4 +15,4 @@ The project, were I learned how manipulated with Object DOM, and CSS style
 
 ### 3. Pig game.
 The project, were I learned how manipulated with Object DOM, and CSS style and so on....
-[link](http://test.ruslangaifutdinov.ru/pig_game/index.html)
+[link](http://test.ruslangaifutdinov.ru/pig/index.html)
